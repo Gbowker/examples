@@ -1,6 +1,6 @@
 %% Seismic velocities and anisotropy
 %
-% Calculalating and plotting elastic velocities from elastic stiffness
+% Calculating and plotting elastic velocities from elastic stiffness
 % Cijkl tensor and density (by David Mainprice).
 %
 %
